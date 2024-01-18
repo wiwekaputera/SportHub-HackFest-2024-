@@ -1,0 +1,35 @@
+analyzer:
+  exclude:
+    - '**/*.g.dart'
+    - '**/*.freezed.dart'
+
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
+  errors:
+    missing_required_param: error
+    missing_return: error
+    invalid_assignment: warning
+    invalid_annotation_target: ignore
+
+linter:
+  rules:
+    always_declare_return_types: true
+    always_put_control_body_on_new_line: true
+    always_require_non_null_named_parameters: true
+    always_use_package_imports: true
+    annotate_overrides: true
+    avoid_bool_literals_in_conditional_expressions: true
+    avoid_catching_errors: true
+    avoid_dynamic_calls: true
+    avoid_empty_else: true
+    avoid_equals_and_hash_code_on_mutable_classes: true
+    avoid_escaping_inner_quotes: true
+    avoid_field_initializers_in_const_classes: true
+    avoid_function_literals_in_foreach_calls: true
+    avoid_implementing_value_types: true
+    avoid_init_to_null: true
+    avoid_multiple_declarations_per_line: true
+    avoid_null_checks_in_equality_operators: true
+    avoid_print: true
