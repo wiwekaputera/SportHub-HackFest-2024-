@@ -14,9 +14,9 @@ Aplikasi ini adalah platform serbaguna yang dirancang khusus untuk penggemar ola
 5. Info Lokasi Tempat Olahraga: Selain toko olahraga, pengguna dapat mencari dan mendapatkan informasi lengkap mengenai fasilitas olahraga, seperti lapangan, pusat kebugaran, dan tempat lainnya.
 
 # Screenshot Tampilan Aplikasi
-![Beranda](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/da6a5f61-9a7f-485f-b05e-d6f7d83b329d)
-![Registrasi Event](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/11443d71-fb3f-45f2-999b-852fb3048862)
-![Event Detail](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/2941eb79-120b-4bae-8da2-558d6ebdfcc2)
-![Teman](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/2a24547c-1dd1-469d-9deb-40956697e298)
-![Upload Event](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/9e0d6d07-19d8-4293-8bf9-2bc5e04fa64d)
-![Peta](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/2eb9edeb-9846-4493-af2b-0575b40ebfcf)
+![Beranda](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/4a8e277a-22d4-4755-9c80-ce05e37f146a)
+![Detail Event](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/81608848-5794-4ec2-862f-8f21e7e6e916)
+![Registrasi Event](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/95dbf476-8b4d-41b4-b1cd-e077aa599cb4)
+![Teman](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/f310c0dc-f425-4432-8780-e19988250e10)
+![Upload Event](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/85d16766-0767-48ff-91d9-23d97498c5e8)
+![Peta](https://github.com/wiwekaputera/SportHub-HackFest-2024-/assets/78787384/9793c616-7783-4418-ae35-0ac4bd3c6839)
